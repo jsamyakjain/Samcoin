@@ -2,6 +2,7 @@
 
 In this project, I created a Smart Contract named samcoin, named after me, in which I am issuing 1 million samcoins for people to buy and sell. This buying and selling of samcoins is made secure through the Smart Contract made in Solidity.
 
+![image](https://user-images.githubusercontent.com/96763032/200106618-4ca2e4fe-b3a5-414a-a402-3b2a282ae02b.png)
 
 GANACHE: 
 
